@@ -1,9 +1,12 @@
 Welcome to the AirBnB clone project!
 
-Background Context
+This is a collaborative project between I (Solomon Iniodu) and a colleague (Chioma Williams) in the ALX cohort-9 SE Program.
+
+BACKGROUND CONTEXT
 
 First step: 
-I Wrote a command interpreter to manage my AirBnB objects.
+A command interpreter was written to manage this objects.
+
 This is the first step towards building my first full web application: The AirBnB clone is a project I intend to implement in subsequent projects such as;
 *HTML/CSS templating
 *Database storage
